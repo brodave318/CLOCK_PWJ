@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Bungee+Inline&family=Freckle+Face&family=Lemonada:wght@500&family=Orbitron:wght@600&family=Pacifico&family=Piedra&family=Raleway+Dots&family=Rye&family=Special+Elite&display=swap');
+
+body {
+  background-color: rgb(14, 139, 108);
+  font-size: 100px;
+  color: rgb(171, 255, 2);
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 3px 3px 3px rgb(98, 155, 0),
+               6px 6px 6px brown,
+               9px 9px 9px rgb(37, 19, 19),
+               12px 12px 12px rgb(36, 47, 15);
+}
